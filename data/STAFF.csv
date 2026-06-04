@@ -1,0 +1,401 @@
+staff_id,ngo_id,first_name,last_name,role,email,phone,hire_date,salary
+1,13,Bibigul,Dzhakishev,Coordinator,bibigul.dzhakishev187@yahoo.com,+7 (737) 884-86-83,2015-10-19,512482
+2,6,Farida,Kadyrov,Manager,farida.kadyrov282@yahoo.com,+7 (748) 241-98-12,2016-06-09,516489
+3,16,Dinara,Nurgaliyev,Field Worker,dinara.nurgaliyev559@mail.ru,+7 (730) 421-52-77,2021-12-26,508784
+4,16,Aidana,Zhakenov,Accountant,aidana.zhakenov939@yahoo.com,+7 (722) 686-23-72,2012-04-02,375325
+5,7,Timur,Ospanov,Accountant,timur.ospanov429@mail.ru,+7 (796) 723-25-18,2017-01-09,475952
+6,7,Asel,Dzhakishev,Manager,asel.dzhakishev185@yandex.kz,+7 (736) 944-20-69,2013-05-24,230085
+7,4,Kairat,Tolegenov,Field Worker,kairat.tolegenov664@outlook.com,+7 (778) 948-64-85,2010-07-08,238493
+8,13,Kairat,Kairatov,Assistant,kairat.kairatov206@yahoo.com,+7 (745) 378-76-58,2014-05-22,500842
+9,2,Nazira,Zhumabekov,Assistant,nazira.zhumabekov485@yandex.kz,+7 (741) 784-51-68,2017-10-20,197481
+10,5,Kanat,Dauletov,Manager,kanat.dauletov540@yandex.kz,+7 (778) 886-74-63,2014-04-22,484690
+11,6,Aliya,Rakhimov,Manager,aliya.rakhimov336@yandex.kz,+7 (797) 673-68-27,2013-02-07,187544
+12,14,Timur,Rakhimov,Accountant,timur.rakhimov892@yahoo.com,+7 (744) 300-24-97,2021-11-17,237569
+13,9,Aslan,Ismailov,Manager,aslan.ismailov938@mail.ru,+7 (781) 544-76-81,2011-01-09,437264
+14,16,Farida,Suleimenov,Coordinator,farida.suleimenov612@gmail.com,+7 (757) 169-43-87,2021-10-26,154116
+15,16,Tamara,Kairatov,Manager,tamara.kairatov957@gmail.com,+7 (767) 794-93-86,2016-01-14,513963
+16,20,Bolat,Bekbolat,Manager,bolat.bekbolat43@yandex.kz,+7 (788) 653-45-66,2022-06-18,241394
+17,20,Serik,Ospanov,Manager,serik.ospanov532@gmail.com,+7 (715) 848-67-36,2010-11-09,447015
+18,14,Aigul,Suleimenov,Assistant,aigul.suleimenov900@gmail.com,+7 (757) 618-83-20,2015-05-19,449600
+19,6,Arman,Akhmetov,Assistant,arman.akhmetov165@outlook.com,+7 (720) 964-17-66,2019-07-19,180401
+20,11,Kairat,Suleimenov,Accountant,kairat.suleimenov36@yandex.kz,+7 (783) 621-36-55,2012-10-19,228564
+21,5,Oksana,Ismailov,Coordinator,oksana.ismailov106@outlook.com,+7 (758) 586-75-88,2019-04-15,256105
+22,7,Saule,Ismailov,Accountant,saule.ismailov63@yahoo.com,+7 (792) 414-27-54,2023-06-14,270381
+23,6,Baurzhan,Tolegenov,Field Worker,baurzhan.tolegenov385@yahoo.com,+7 (750) 370-63-55,2014-02-16,537921
+24,13,Zhanar,Nurpeisov,Assistant,zhanar.nurpeisov201@yahoo.com,+7 (735) 525-21-52,2017-06-10,298220
+25,18,Kuanysh,Dzhakishev,Accountant,kuanysh.dzhakishev259@yandex.kz,+7 (744) 192-59-62,2010-06-27,578601
+26,14,Timur,Bekbolat,Field Worker,timur.bekbolat489@gmail.com,+7 (798) 734-56-43,2019-12-18,321000
+27,2,Bolat,Dzhakishev,Field Worker,bolat.dzhakishev959@gmail.com,+7 (724) 182-20-53,2014-07-02,164172
+28,1,Elmira,Bekbolat,Field Worker,elmira.bekbolat698@outlook.com,+7 (760) 370-35-33,2020-12-11,210678
+29,2,Bibigul,Serikbayev,Accountant,bibigul.serikbayev325@outlook.com,+7 (750) 627-77-12,2010-03-17,539289
+30,9,Askar,Omarov,Accountant,askar.omarov732@outlook.com,+7 (794) 407-96-20,2021-02-02,167040
+31,16,Laura,Nurpeisov,Accountant,laura.nurpeisov242@outlook.com,+7 (775) 993-75-43,2012-02-13,513530
+32,14,Bibigul,Bekbolat,Manager,bibigul.bekbolat379@mail.ru,+7 (775) 452-73-70,2011-04-16,232723
+33,16,Daniyar,Kairatov,Field Worker,daniyar.kairatov717@mail.ru,+7 (742) 439-85-64,2019-02-10,244814
+34,1,Dias,Tuleshov,Assistant,dias.tuleshov896@mail.ru,+7 (718) 985-14-91,2014-03-24,596018
+35,16,Gulnara,Dauletov,Field Worker,gulnara.dauletov581@yandex.kz,+7 (791) 829-99-71,2018-04-12,384228
+36,11,Marat,Yermekbayev,Field Worker,marat.yermekbayev224@outlook.com,+7 (717) 651-21-88,2017-10-17,200528
+37,15,Laura,Baimukhanov,Coordinator,laura.baimukhanov865@yahoo.com,+7 (752) 576-47-74,2011-06-26,211037
+38,19,Dinara,Ospanov,Coordinator,dinara.ospanov444@outlook.com,+7 (787) 668-97-47,2023-07-17,561608
+39,1,Gulnara,Zhumabekov,Field Worker,gulnara.zhumabekov415@yahoo.com,+7 (782) 886-44-70,2015-11-26,438947
+40,1,Farida,Bekbolat,Coordinator,farida.bekbolat29@outlook.com,+7 (772) 506-12-66,2016-03-03,279549
+41,5,Laura,Zhumabekov,Field Worker,laura.zhumabekov786@outlook.com,+7 (720) 662-25-18,2012-09-09,158877
+42,17,Arman,Dauletov,Assistant,arman.dauletov774@mail.ru,+7 (726) 801-89-44,2018-06-08,388684
+43,12,Ruslan,Suleimenov,Coordinator,ruslan.suleimenov624@yahoo.com,+7 (745) 479-55-76,2020-12-25,206901
+44,17,Medet,Aliyev,Accountant,medet.aliyev912@yahoo.com,+7 (793) 907-60-29,2017-09-11,496854
+45,19,Aidar,Dauletov,Manager,aidar.dauletov744@yandex.kz,+7 (712) 877-43-99,2022-11-28,210554
+46,1,Dinara,Baimukhanov,Coordinator,dinara.baimukhanov323@outlook.com,+7 (781) 891-26-15,2014-04-09,471564
+47,19,Bolat,Yermekbayev,Field Worker,bolat.yermekbayev294@outlook.com,+7 (767) 599-29-22,2022-09-21,510377
+48,2,Marat,Zhumabekov,Field Worker,marat.zhumabekov399@yandex.kz,+7 (724) 511-46-93,2015-11-08,356194
+49,17,Madina,Tolegenov,Coordinator,madina.tolegenov203@yahoo.com,+7 (791) 361-44-47,2018-03-04,533409
+50,19,Madina,Tuleshov,Assistant,madina.tuleshov64@mail.ru,+7 (744) 854-14-14,2016-07-21,481934
+51,8,Farida,Magzumov,Assistant,farida.magzumov895@outlook.com,+7 (720) 737-71-27,2011-01-19,406740
+52,20,Aslan,Nurgaliyev,Coordinator,aslan.nurgaliyev66@mail.ru,+7 (738) 716-47-41,2015-03-16,596937
+53,8,Kamila,Ospanov,Accountant,kamila.ospanov555@gmail.com,+7 (745) 894-31-93,2016-12-13,362442
+54,19,Marat,Kadyrov,Manager,marat.kadyrov83@yandex.kz,+7 (764) 994-15-82,2022-03-02,330736
+55,14,Zhanar,Zhakenov,Field Worker,zhanar.zhakenov4@outlook.com,+7 (791) 338-12-65,2014-04-28,383659
+56,9,Kamila,Aliyev,Manager,kamila.aliyev315@outlook.com,+7 (747) 704-33-88,2010-11-16,566744
+57,6,Elmira,Tuleshov,Coordinator,elmira.tuleshov399@outlook.com,+7 (712) 857-12-84,2012-06-06,301815
+58,1,Nazira,Zhakenov,Assistant,nazira.zhakenov706@outlook.com,+7 (783) 373-12-33,2019-08-13,220107
+59,13,Medet,Kadyrov,Coordinator,medet.kadyrov93@yahoo.com,+7 (765) 960-90-70,2018-09-28,503372
+60,9,Madina,Suleimenov,Assistant,madina.suleimenov5@gmail.com,+7 (734) 545-39-46,2017-11-09,284418
+61,12,Zarina,Akhmetov,Manager,zarina.akhmetov513@gmail.com,+7 (764) 973-64-37,2012-12-27,304243
+62,14,Aigul,Tuleshov,Manager,aigul.tuleshov344@yahoo.com,+7 (773) 702-79-14,2013-01-23,341549
+63,11,Bakhyt,Ismailov,Field Worker,bakhyt.ismailov140@outlook.com,+7 (726) 464-29-53,2012-05-25,443884
+64,15,Dana,Nurgaliyev,Accountant,dana.nurgaliyev642@mail.ru,+7 (734) 893-43-97,2010-06-07,477867
+65,19,Rauan,Kadyrov,Accountant,rauan.kadyrov604@yahoo.com,+7 (777) 912-76-16,2021-05-28,229469
+66,16,Aidana,Zhakenov,Field Worker,aidana.zhakenov721@yandex.kz,+7 (726) 589-50-26,2014-10-26,454464
+67,18,Gaukhar,Kairatov,Field Worker,gaukhar.kairatov110@yahoo.com,+7 (798) 735-90-57,2012-08-03,575383
+68,9,Marlen,Nurgaliyev,Assistant,marlen.nurgaliyev608@yahoo.com,+7 (731) 191-33-87,2012-06-04,269966
+69,11,Bibigul,Nurpeisov,Manager,bibigul.nurpeisov560@yandex.kz,+7 (756) 320-96-47,2016-04-14,311052
+70,3,Dana,Kadyrov,Assistant,dana.kadyrov170@yandex.kz,+7 (766) 352-78-52,2010-12-28,554374
+71,14,Daniyar,Ospanov,Accountant,daniyar.ospanov515@yahoo.com,+7 (758) 830-95-45,2024-09-23,368436
+72,7,Dana,Abdirov,Assistant,dana.abdirov995@yahoo.com,+7 (722) 109-27-68,2017-04-18,217485
+73,17,Arman,Tuleshov,Manager,arman.tuleshov467@mail.ru,+7 (718) 687-40-88,2019-06-02,591374
+74,5,Kairat,Suleimenov,Field Worker,kairat.suleimenov560@gmail.com,+7 (792) 719-69-40,2013-11-14,169471
+75,9,Arman,Kadyrov,Coordinator,arman.kadyrov665@yahoo.com,+7 (791) 950-71-93,2016-09-16,575875
+76,9,Saltanat,Kadyrov,Manager,saltanat.kadyrov551@gmail.com,+7 (787) 928-64-28,2019-10-15,237983
+77,3,Kairat,Omarov,Accountant,kairat.omarov369@yandex.kz,+7 (746) 462-46-75,2021-02-13,170120
+78,13,Laura,Baimukhanov,Manager,laura.baimukhanov798@mail.ru,+7 (711) 265-98-12,2019-09-08,372596
+79,9,Rauan,Magzumov,Coordinator,rauan.magzumov800@yandex.kz,+7 (738) 163-38-11,2011-09-19,534784
+80,12,Asel,Nurgaliyev,Accountant,asel.nurgaliyev294@yandex.kz,+7 (725) 703-39-85,2011-05-06,416198
+81,16,Baurzhan,Akhmetov,Field Worker,baurzhan.akhmetov18@gmail.com,+7 (778) 377-88-77,2016-05-14,583320
+82,13,Yerbol,Nurpeisov,Assistant,yerbol.nurpeisov442@yandex.kz,+7 (715) 212-88-27,2012-07-04,457074
+83,7,Medet,Zhakenov,Coordinator,medet.zhakenov36@yandex.kz,+7 (780) 727-94-95,2013-11-27,156939
+84,11,Dias,Kadyrov,Accountant,dias.kadyrov136@mail.ru,+7 (781) 577-44-95,2010-09-15,306177
+85,16,Bibigul,Esenov,Field Worker,bibigul.esenov752@yahoo.com,+7 (761) 381-83-50,2018-09-10,513848
+86,8,Yerlan,Ospanov,Accountant,yerlan.ospanov821@gmail.com,+7 (715) 664-76-31,2018-11-07,422429
+87,12,Aidana,Aliyev,Coordinator,aidana.aliyev469@outlook.com,+7 (767) 854-96-87,2013-07-03,514961
+88,8,Asel,Aliyev,Field Worker,asel.aliyev347@outlook.com,+7 (777) 252-61-22,2010-11-08,277016
+89,10,Gulnara,Kadyrov,Field Worker,gulnara.kadyrov799@yandex.kz,+7 (788) 912-45-84,2024-06-13,505833
+90,19,Ulan,Suleimenov,Coordinator,ulan.suleimenov781@gmail.com,+7 (733) 401-48-11,2023-07-12,599463
+91,16,Kuanysh,Dzhakishev,Manager,kuanysh.dzhakishev82@gmail.com,+7 (727) 483-32-23,2010-03-14,547955
+92,8,Saltanat,Magzumov,Assistant,saltanat.magzumov873@gmail.com,+7 (791) 550-13-64,2024-03-01,370327
+93,17,Nurlan,Abdirov,Field Worker,nurlan.abdirov487@gmail.com,+7 (754) 985-26-16,2021-12-25,470660
+94,9,Baurzhan,Magzumov,Accountant,baurzhan.magzumov776@yahoo.com,+7 (795) 902-27-21,2019-08-23,398032
+95,14,Kairat,Omarov,Field Worker,kairat.omarov696@gmail.com,+7 (711) 281-95-24,2010-09-20,240172
+96,5,Madina,Dauletov,Manager,madina.dauletov413@gmail.com,+7 (724) 150-77-39,2019-06-19,401469
+97,12,Nurlan,Kairatov,Assistant,nurlan.kairatov381@outlook.com,+7 (771) 344-53-71,2018-02-11,354317
+98,20,Kamila,Suleimenov,Accountant,kamila.suleimenov518@yandex.kz,+7 (754) 197-88-29,2021-03-04,301094
+99,19,Daniyar,Abdirov,Manager,daniyar.abdirov37@yahoo.com,+7 (735) 890-31-55,2019-02-28,439768
+100,9,Kanat,Ismailov,Accountant,kanat.ismailov303@gmail.com,+7 (762) 632-31-84,2012-06-12,168175
+101,1,Tamara,Kadyrov,Field Worker,tamara.kadyrov768@yahoo.com,+7 (713) 315-88-80,2014-05-09,432349
+102,6,Kairat,Kadyrov,Manager,kairat.kadyrov138@yandex.kz,+7 (754) 788-56-18,2018-04-19,393908
+103,9,Kamila,Zhumabekov,Assistant,kamila.zhumabekov666@outlook.com,+7 (778) 512-56-44,2023-08-01,152618
+104,4,Marlen,Aliyev,Manager,marlen.aliyev707@yahoo.com,+7 (790) 333-12-30,2017-04-09,299933
+105,16,Bolat,Zhumabekov,Assistant,bolat.zhumabekov851@yandex.kz,+7 (796) 317-13-40,2016-06-02,512308
+106,10,Daniyar,Rakhimov,Manager,daniyar.rakhimov299@yandex.kz,+7 (775) 640-11-35,2020-09-17,445465
+107,5,Nurlan,Suleimenov,Coordinator,nurlan.suleimenov331@gmail.com,+7 (722) 719-42-36,2015-06-20,267184
+108,12,Medet,Nurgaliyev,Coordinator,medet.nurgaliyev701@gmail.com,+7 (727) 335-65-10,2021-06-27,441768
+109,2,Aigul,Bekbolat,Assistant,aigul.bekbolat693@yandex.kz,+7 (795) 451-45-39,2016-01-14,557691
+110,18,Marat,Akhmetov,Manager,marat.akhmetov460@mail.ru,+7 (731) 650-35-13,2016-10-10,416696
+111,18,Askar,Kairatov,Accountant,askar.kairatov980@yahoo.com,+7 (741) 317-94-84,2023-08-04,169139
+112,8,Nazira,Ospanov,Accountant,nazira.ospanov161@gmail.com,+7 (733) 979-18-18,2015-03-12,336677
+113,9,Yerbol,Nurpeisov,Coordinator,yerbol.nurpeisov713@yahoo.com,+7 (725) 270-70-78,2016-06-08,230430
+114,17,Nurlan,Baimukhanov,Field Worker,nurlan.baimukhanov96@outlook.com,+7 (712) 246-47-32,2024-10-01,392752
+115,10,Marlen,Abdirov,Field Worker,marlen.abdirov836@yandex.kz,+7 (774) 645-42-73,2014-03-06,334250
+116,15,Yerlan,Rakhimov,Assistant,yerlan.rakhimov261@yahoo.com,+7 (761) 922-75-82,2012-12-27,463741
+117,18,Erlan,Dzhakishev,Field Worker,erlan.dzhakishev315@yahoo.com,+7 (770) 731-26-23,2011-01-23,323024
+118,12,Bakhyt,Rakhimov,Manager,bakhyt.rakhimov708@yandex.kz,+7 (748) 315-83-18,2012-12-03,359995
+119,20,Oksana,Aliyev,Accountant,oksana.aliyev110@yahoo.com,+7 (750) 397-42-86,2023-02-12,277160
+120,16,Aidana,Zhakenov,Accountant,aidana.zhakenov101@outlook.com,+7 (775) 140-61-52,2019-07-05,416553
+121,1,Arman,Ospanov,Assistant,arman.ospanov2@outlook.com,+7 (766) 233-20-56,2013-03-06,360158
+122,2,Gulnara,Nurgaliyev,Manager,gulnara.nurgaliyev420@gmail.com,+7 (727) 430-72-46,2012-08-24,424041
+123,11,Dana,Abdirov,Accountant,dana.abdirov800@yahoo.com,+7 (722) 610-94-98,2022-09-19,164153
+124,8,Dana,Akhmetov,Assistant,dana.akhmetov435@gmail.com,+7 (753) 571-97-60,2019-07-13,586292
+125,5,Timur,Nurgaliyev,Assistant,timur.nurgaliyev11@yahoo.com,+7 (762) 592-25-99,2012-02-12,203369
+126,9,Bakhyt,Dauletov,Coordinator,bakhyt.dauletov623@yahoo.com,+7 (710) 809-94-37,2013-03-05,189265
+127,10,Madina,Magzumov,Field Worker,madina.magzumov576@gmail.com,+7 (785) 900-94-83,2018-03-15,162562
+128,15,Askar,Kadyrov,Coordinator,askar.kadyrov607@gmail.com,+7 (754) 674-65-76,2013-10-09,488704
+129,20,Nazira,Kairatov,Assistant,nazira.kairatov565@yahoo.com,+7 (744) 905-66-30,2018-07-21,453111
+130,3,Aslan,Nurgaliyev,Coordinator,aslan.nurgaliyev298@yahoo.com,+7 (753) 624-76-98,2011-08-07,255551
+131,17,Venera,Zhakenov,Coordinator,venera.zhakenov759@mail.ru,+7 (741) 912-58-51,2011-06-23,329919
+132,4,Aliya,Esenov,Coordinator,aliya.esenov269@outlook.com,+7 (795) 679-68-43,2013-08-09,522568
+133,8,Kanat,Nurgaliyev,Field Worker,kanat.nurgaliyev981@gmail.com,+7 (757) 743-40-84,2014-11-11,394043
+134,14,Gulnara,Nurpeisov,Field Worker,gulnara.nurpeisov307@yandex.kz,+7 (720) 755-82-52,2012-02-25,281680
+135,2,Dias,Tolegenov,Manager,dias.tolegenov947@yahoo.com,+7 (788) 748-72-91,2016-11-13,281607
+136,5,Laura,Yermekbayev,Field Worker,laura.yermekbayev369@gmail.com,+7 (714) 347-64-57,2014-10-16,218142
+137,15,Tamara,Nurpeisov,Field Worker,tamara.nurpeisov72@outlook.com,+7 (768) 610-91-31,2014-12-22,571061
+138,14,Togzhan,Tuleshov,Field Worker,togzhan.tuleshov394@yandex.kz,+7 (794) 732-60-81,2013-02-09,241448
+139,11,Aliya,Rakhimov,Assistant,aliya.rakhimov148@yandex.kz,+7 (772) 579-54-99,2016-09-02,215204
+140,18,Daniyar,Suleimenov,Field Worker,daniyar.suleimenov114@yahoo.com,+7 (764) 591-31-33,2010-03-10,297876
+141,14,Kamila,Ospanov,Coordinator,kamila.ospanov292@mail.ru,+7 (797) 639-17-81,2011-11-06,246543
+142,6,Bolat,Esenov,Coordinator,bolat.esenov764@yahoo.com,+7 (788) 452-43-71,2014-01-19,409363
+143,11,Nurlan,Baimukhanov,Coordinator,nurlan.baimukhanov994@mail.ru,+7 (734) 116-31-18,2017-08-07,378963
+144,13,Kuanysh,Esenov,Accountant,kuanysh.esenov158@outlook.com,+7 (786) 403-71-15,2022-01-25,195647
+145,20,Bakhyt,Yermekbayev,Field Worker,bakhyt.yermekbayev36@mail.ru,+7 (713) 390-42-34,2017-02-07,411559
+146,2,Kuanysh,Yermekbayev,Accountant,kuanysh.yermekbayev948@gmail.com,+7 (743) 388-48-48,2023-09-20,285305
+147,2,Zarina,Aliyev,Assistant,zarina.aliyev375@outlook.com,+7 (748) 307-64-36,2017-09-07,487831
+148,13,Zhanna,Suleimenov,Manager,zhanna.suleimenov53@gmail.com,+7 (730) 443-68-47,2019-07-09,486991
+149,10,Medet,Zhakenov,Coordinator,medet.zhakenov387@mail.ru,+7 (791) 504-36-68,2020-03-07,424468
+150,5,Gaukhar,Bekbolat,Coordinator,gaukhar.bekbolat389@yandex.kz,+7 (746) 462-22-40,2013-05-18,593968
+151,3,Laura,Zhakenov,Field Worker,laura.zhakenov968@yandex.kz,+7 (790) 381-64-50,2016-02-12,339702
+152,13,Kanat,Serikbayev,Field Worker,kanat.serikbayev875@mail.ru,+7 (732) 631-73-96,2024-01-01,266771
+153,11,Farida,Zhakenov,Assistant,farida.zhakenov237@gmail.com,+7 (787) 612-61-14,2023-05-25,540368
+154,7,Dinara,Zhumabekov,Coordinator,dinara.zhumabekov413@yandex.kz,+7 (776) 417-81-28,2023-07-09,565687
+155,14,Serik,Tolegenov,Accountant,serik.tolegenov13@mail.ru,+7 (728) 335-18-63,2020-04-28,234914
+156,1,Aigul,Esenov,Accountant,aigul.esenov10@yandex.kz,+7 (767) 865-13-56,2023-03-07,326260
+157,15,Oksana,Tuleshov,Field Worker,oksana.tuleshov894@yahoo.com,+7 (722) 142-46-52,2020-03-18,429539
+158,1,Bolat,Serikbayev,Field Worker,bolat.serikbayev295@yahoo.com,+7 (756) 515-98-30,2019-01-05,228957
+159,6,Zhanna,Nurpeisov,Manager,zhanna.nurpeisov644@outlook.com,+7 (797) 365-22-28,2019-05-06,527563
+160,12,Bibigul,Akhmetov,Assistant,bibigul.akhmetov329@mail.ru,+7 (711) 629-15-87,2017-11-03,292684
+161,3,Askar,Ismailov,Coordinator,askar.ismailov759@mail.ru,+7 (787) 234-47-62,2024-02-01,229208
+162,19,Rauan,Nurgaliyev,Accountant,rauan.nurgaliyev914@yandex.kz,+7 (797) 585-54-41,2015-06-07,439908
+163,6,Aliya,Ospanov,Coordinator,aliya.ospanov738@yahoo.com,+7 (720) 512-71-65,2024-01-15,266051
+164,14,Dias,Kadyrov,Assistant,dias.kadyrov595@yahoo.com,+7 (742) 227-91-87,2017-09-12,231111
+165,1,Zhanar,Ismailov,Coordinator,zhanar.ismailov801@outlook.com,+7 (772) 935-14-15,2022-02-10,178453
+166,11,Aslan,Tolegenov,Field Worker,aslan.tolegenov275@outlook.com,+7 (728) 907-55-31,2010-11-05,574860
+167,7,Daniyar,Kairatov,Coordinator,daniyar.kairatov7@gmail.com,+7 (777) 594-70-62,2011-05-14,592308
+168,4,Zhanna,Zhumabekov,Assistant,zhanna.zhumabekov591@outlook.com,+7 (782) 319-53-96,2011-08-24,509959
+169,10,Laura,Esenov,Manager,laura.esenov311@yandex.kz,+7 (735) 947-62-77,2013-01-03,525106
+170,10,Kuanysh,Dzhakishev,Field Worker,kuanysh.dzhakishev183@outlook.com,+7 (713) 879-33-61,2020-12-15,356418
+171,11,Dinara,Bekbolat,Assistant,dinara.bekbolat394@mail.ru,+7 (766) 384-92-46,2016-01-17,561245
+172,8,Yerbol,Serikbayev,Field Worker,yerbol.serikbayev657@yahoo.com,+7 (786) 613-68-94,2023-12-01,378565
+173,3,Aigul,Serikbayev,Field Worker,aigul.serikbayev524@yahoo.com,+7 (727) 630-17-64,2020-03-22,370168
+174,4,Baurzhan,Nurpeisov,Accountant,baurzhan.nurpeisov191@mail.ru,+7 (720) 753-98-18,2024-05-25,386189
+175,9,Askar,Dauletov,Manager,askar.dauletov488@yandex.kz,+7 (785) 822-71-42,2013-12-11,204259
+176,2,Aidar,Serikbayev,Accountant,aidar.serikbayev277@outlook.com,+7 (725) 101-23-70,2016-01-03,417117
+177,13,Aigul,Tolegenov,Manager,aigul.tolegenov807@mail.ru,+7 (730) 570-37-55,2023-06-17,429107
+178,17,Elmira,Tuleshov,Field Worker,elmira.tuleshov358@gmail.com,+7 (768) 540-67-19,2012-10-05,554246
+179,8,Kanat,Tolegenov,Assistant,kanat.tolegenov133@yahoo.com,+7 (720) 155-82-21,2013-02-24,283665
+180,13,Baurzhan,Kadyrov,Assistant,baurzhan.kadyrov609@yandex.kz,+7 (751) 838-63-86,2011-02-09,398537
+181,1,Saule,Suleimenov,Field Worker,saule.suleimenov486@gmail.com,+7 (763) 442-20-29,2015-10-18,415641
+182,7,Aidana,Tolegenov,Field Worker,aidana.tolegenov708@yandex.kz,+7 (757) 869-50-96,2019-08-10,375993
+183,5,Sultan,Bekbolat,Assistant,sultan.bekbolat505@yandex.kz,+7 (763) 743-76-34,2019-01-05,389839
+184,13,Aliya,Yermekbayev,Coordinator,aliya.yermekbayev786@outlook.com,+7 (757) 153-21-64,2016-07-10,378242
+185,17,Yerlan,Omarov,Field Worker,yerlan.omarov817@yandex.kz,+7 (770) 108-27-78,2012-05-21,488049
+186,1,Oksana,Suleimenov,Coordinator,oksana.suleimenov458@gmail.com,+7 (774) 274-20-93,2013-12-13,554668
+187,7,Zhanar,Tuleshov,Accountant,zhanar.tuleshov939@yandex.kz,+7 (762) 814-68-51,2016-09-26,227399
+188,16,Marlen,Zhumabekov,Field Worker,marlen.zhumabekov124@mail.ru,+7 (784) 182-57-44,2019-09-11,256989
+189,14,Asel,Serikbayev,Manager,asel.serikbayev432@yandex.kz,+7 (722) 172-74-28,2018-05-05,561406
+190,16,Dana,Zhakenov,Manager,dana.zhakenov718@yahoo.com,+7 (787) 345-22-63,2014-05-13,387308
+191,10,Daniyar,Nurgaliyev,Field Worker,daniyar.nurgaliyev299@yandex.kz,+7 (780) 799-23-56,2016-02-23,299065
+192,16,Kuanysh,Rakhimov,Manager,kuanysh.rakhimov941@gmail.com,+7 (754) 596-52-13,2014-03-09,463925
+193,5,Erlan,Baimukhanov,Coordinator,erlan.baimukhanov822@yahoo.com,+7 (768) 728-69-45,2021-07-06,310130
+194,15,Bibigul,Aliyev,Manager,bibigul.aliyev929@mail.ru,+7 (756) 224-60-23,2016-09-11,182890
+195,20,Daniyar,Akhmetov,Coordinator,daniyar.akhmetov78@mail.ru,+7 (781) 694-19-84,2022-01-12,238468
+196,19,Dias,Suleimenov,Coordinator,dias.suleimenov889@yahoo.com,+7 (774) 914-18-27,2023-03-14,469983
+197,18,Kuanysh,Ismailov,Accountant,kuanysh.ismailov833@yandex.kz,+7 (711) 972-78-78,2017-12-19,219492
+198,12,Madina,Akhmetov,Assistant,madina.akhmetov319@yahoo.com,+7 (768) 531-37-98,2022-09-21,559107
+199,4,Nurlan,Nurgaliyev,Manager,nurlan.nurgaliyev145@gmail.com,+7 (726) 703-82-48,2015-02-02,392209
+200,3,Aslan,Nurgaliyev,Coordinator,aslan.nurgaliyev160@yahoo.com,+7 (764) 811-98-32,2014-02-17,562703
+201,15,Kuanysh,Bekbolat,Assistant,kuanysh.bekbolat592@mail.ru,+7 (748) 160-55-91,2023-08-09,282483
+202,4,Nurlan,Kadyrov,Accountant,nurlan.kadyrov919@mail.ru,+7 (792) 952-52-45,2010-06-03,435902
+203,4,Zhanna,Kairatov,Coordinator,zhanna.kairatov335@outlook.com,+7 (788) 238-82-72,2015-05-17,268108
+204,3,Farida,Magzumov,Assistant,farida.magzumov285@mail.ru,+7 (724) 115-50-44,2012-10-08,483580
+205,2,Arman,Mambetalin,Accountant,arman.mambetalin189@yahoo.com,+7 (752) 668-93-53,2023-12-13,320840
+206,10,Ruslan,Dzhakishev,Field Worker,ruslan.dzhakishev242@mail.ru,+7 (735) 418-56-56,2011-10-10,237446
+207,2,Bolat,Zhumabekov,Manager,bolat.zhumabekov409@outlook.com,+7 (738) 604-62-54,2011-12-17,443631
+208,6,Dias,Serikbayev,Manager,dias.serikbayev623@mail.ru,+7 (747) 160-77-43,2013-05-06,561466
+209,17,Erlan,Tuleshov,Accountant,erlan.tuleshov511@outlook.com,+7 (733) 704-84-37,2014-05-15,380612
+210,7,Medet,Zhumabekov,Assistant,medet.zhumabekov141@yandex.kz,+7 (792) 751-93-57,2016-09-18,385307
+211,14,Bakhyt,Dzhakishev,Field Worker,bakhyt.dzhakishev166@gmail.com,+7 (733) 846-67-95,2020-03-09,152758
+212,12,Venera,Ismailov,Assistant,venera.ismailov278@outlook.com,+7 (766) 160-72-54,2011-06-13,521470
+213,6,Arman,Serikbayev,Field Worker,arman.serikbayev879@gmail.com,+7 (710) 276-88-74,2019-02-13,191488
+214,15,Medet,Kadyrov,Coordinator,medet.kadyrov626@outlook.com,+7 (747) 336-55-48,2013-10-09,474297
+215,6,Ulan,Esenov,Field Worker,ulan.esenov223@gmail.com,+7 (754) 539-78-83,2010-08-27,166961
+216,8,Dana,Omarov,Assistant,dana.omarov474@gmail.com,+7 (750) 911-25-76,2012-04-27,266922
+217,3,Askar,Esenov,Field Worker,askar.esenov973@outlook.com,+7 (757) 193-10-25,2023-11-08,246054
+218,17,Aigul,Dzhakishev,Assistant,aigul.dzhakishev808@yandex.kz,+7 (743) 223-50-33,2015-07-05,219867
+219,11,Serik,Omarov,Manager,serik.omarov729@yandex.kz,+7 (722) 352-69-20,2019-12-05,483429
+220,14,Arman,Omarov,Field Worker,arman.omarov16@outlook.com,+7 (755) 519-43-41,2010-02-10,453570
+221,20,Marlen,Tolegenov,Field Worker,marlen.tolegenov68@yahoo.com,+7 (757) 298-92-54,2024-04-18,253194
+222,9,Asel,Zhakenov,Manager,asel.zhakenov267@yandex.kz,+7 (768) 552-60-20,2016-07-08,166148
+223,6,Venera,Baimukhanov,Field Worker,venera.baimukhanov323@mail.ru,+7 (785) 689-80-27,2017-04-10,252139
+224,3,Saule,Esenov,Coordinator,saule.esenov874@mail.ru,+7 (710) 546-50-71,2024-03-24,400989
+225,3,Sultan,Nurpeisov,Manager,sultan.nurpeisov922@yandex.kz,+7 (752) 270-71-17,2011-12-25,268853
+226,11,Askar,Esenov,Field Worker,askar.esenov443@mail.ru,+7 (742) 180-65-79,2021-10-14,298471
+227,7,Kairat,Esenov,Coordinator,kairat.esenov998@gmail.com,+7 (741) 706-91-52,2016-07-10,304668
+228,11,Bibigul,Mambetalin,Coordinator,bibigul.mambetalin281@yandex.kz,+7 (716) 548-77-92,2024-04-23,152866
+229,18,Zhanna,Tolegenov,Field Worker,zhanna.tolegenov377@yahoo.com,+7 (772) 842-80-67,2024-03-16,217301
+230,20,Elmira,Tuleshov,Manager,elmira.tuleshov133@yahoo.com,+7 (770) 533-85-38,2012-12-07,219615
+231,7,Zhanar,Akhmetov,Assistant,zhanar.akhmetov869@yahoo.com,+7 (717) 200-80-13,2014-09-07,319763
+232,4,Dana,Mambetalin,Coordinator,dana.mambetalin832@mail.ru,+7 (751) 655-67-19,2020-02-24,472135
+233,12,Gaukhar,Esenov,Coordinator,gaukhar.esenov169@outlook.com,+7 (726) 172-77-57,2010-04-19,525429
+234,20,Arman,Zhakenov,Accountant,arman.zhakenov679@outlook.com,+7 (721) 553-95-26,2013-02-16,454879
+235,13,Marlen,Nurgaliyev,Assistant,marlen.nurgaliyev981@yandex.kz,+7 (742) 123-10-21,2016-03-02,270567
+236,19,Kairat,Zhakenov,Coordinator,kairat.zhakenov416@gmail.com,+7 (783) 457-28-85,2017-04-16,477763
+237,13,Dana,Akhmetov,Manager,dana.akhmetov590@yahoo.com,+7 (771) 545-78-52,2024-08-28,317856
+238,1,Nurlan,Kadyrov,Coordinator,nurlan.kadyrov524@yandex.kz,+7 (725) 863-77-77,2023-04-12,218262
+239,5,Gulnara,Ismailov,Coordinator,gulnara.ismailov2@mail.ru,+7 (767) 110-82-21,2012-06-06,360865
+240,12,Gulnara,Dauletov,Field Worker,gulnara.dauletov624@mail.ru,+7 (736) 226-10-94,2012-01-04,366968
+241,8,Marlen,Serikbayev,Field Worker,marlen.serikbayev875@mail.ru,+7 (762) 787-75-99,2022-04-15,535721
+242,18,Sultan,Yermekbayev,Coordinator,sultan.yermekbayev529@gmail.com,+7 (717) 798-88-29,2015-03-09,173147
+243,17,Baurzhan,Nurgaliyev,Manager,baurzhan.nurgaliyev413@mail.ru,+7 (762) 663-84-54,2021-12-26,249967
+244,17,Zhanar,Rakhimov,Accountant,zhanar.rakhimov971@outlook.com,+7 (788) 757-42-65,2014-09-03,303361
+245,18,Kairat,Bekbolat,Field Worker,kairat.bekbolat306@gmail.com,+7 (778) 795-91-58,2022-05-19,195161
+246,5,Nazira,Nurgaliyev,Field Worker,nazira.nurgaliyev389@gmail.com,+7 (714) 474-91-18,2019-05-20,371628
+247,6,Oksana,Kadyrov,Assistant,oksana.kadyrov549@mail.ru,+7 (757) 273-59-74,2021-02-27,420755
+248,13,Tamara,Baimukhanov,Manager,tamara.baimukhanov324@yandex.kz,+7 (710) 426-71-20,2024-03-02,381521
+249,8,Bakhyt,Kairatov,Coordinator,bakhyt.kairatov57@mail.ru,+7 (710) 313-52-98,2019-04-06,471597
+250,4,Erlan,Nurpeisov,Field Worker,erlan.nurpeisov646@yandex.kz,+7 (792) 544-76-22,2014-01-10,566231
+251,7,Aslan,Suleimenov,Coordinator,aslan.suleimenov676@outlook.com,+7 (770) 452-25-66,2015-01-10,372960
+252,17,Baurzhan,Bekbolat,Field Worker,baurzhan.bekbolat728@yandex.kz,+7 (773) 584-31-91,2010-10-18,214727
+253,14,Gulnara,Abdirov,Manager,gulnara.abdirov379@gmail.com,+7 (712) 408-93-59,2011-04-04,374645
+254,16,Ulan,Dzhakishev,Accountant,ulan.dzhakishev480@mail.ru,+7 (763) 609-51-82,2022-10-01,486574
+255,5,Elmira,Rakhimov,Field Worker,elmira.rakhimov970@mail.ru,+7 (725) 739-41-87,2021-07-06,519215
+256,15,Medet,Akhmetov,Field Worker,medet.akhmetov307@yandex.kz,+7 (717) 867-80-47,2016-10-03,251877
+257,7,Alibek,Esenov,Coordinator,alibek.esenov785@yahoo.com,+7 (752) 895-48-29,2021-08-27,444425
+258,5,Arman,Nurpeisov,Field Worker,arman.nurpeisov210@yandex.kz,+7 (762) 688-91-60,2013-04-13,435025
+259,20,Ulan,Dauletov,Field Worker,ulan.dauletov320@yahoo.com,+7 (792) 648-32-85,2018-03-04,507108
+260,14,Dias,Kairatov,Assistant,dias.kairatov561@yandex.kz,+7 (741) 225-75-82,2022-10-08,489909
+261,14,Erlan,Nurpeisov,Manager,erlan.nurpeisov824@gmail.com,+7 (795) 113-80-97,2017-01-26,179700
+262,14,Kanat,Serikbayev,Accountant,kanat.serikbayev904@mail.ru,+7 (714) 916-83-92,2014-05-02,532606
+263,7,Nurlan,Kairatov,Field Worker,nurlan.kairatov571@outlook.com,+7 (716) 492-47-54,2022-11-16,380080
+264,4,Dinara,Serikbayev,Accountant,dinara.serikbayev842@outlook.com,+7 (736) 390-95-41,2013-08-05,400208
+265,1,Dias,Bekbolat,Field Worker,dias.bekbolat192@mail.ru,+7 (770) 953-73-22,2015-02-26,342697
+266,5,Bibigul,Zhakenov,Field Worker,bibigul.zhakenov956@gmail.com,+7 (780) 276-34-74,2024-03-05,389632
+267,2,Zhanar,Esenov,Accountant,zhanar.esenov98@yandex.kz,+7 (736) 277-13-79,2024-07-20,394517
+268,9,Daniyar,Serikbayev,Coordinator,daniyar.serikbayev977@yahoo.com,+7 (758) 881-54-10,2011-10-15,521813
+269,18,Arman,Aliyev,Field Worker,arman.aliyev591@yahoo.com,+7 (735) 102-67-91,2016-11-21,427267
+270,3,Nurlan,Serikbayev,Field Worker,nurlan.serikbayev34@yahoo.com,+7 (720) 969-84-11,2023-12-09,391292
+271,7,Dana,Dzhakishev,Assistant,dana.dzhakishev542@outlook.com,+7 (783) 427-31-88,2014-05-05,352832
+272,12,Daniyar,Mambetalin,Manager,daniyar.mambetalin318@gmail.com,+7 (751) 391-18-75,2011-06-22,256598
+273,11,Oksana,Tuleshov,Field Worker,oksana.tuleshov80@yandex.kz,+7 (751) 346-98-63,2022-04-17,522194
+274,3,Zarina,Ismailov,Assistant,zarina.ismailov208@yahoo.com,+7 (783) 264-67-56,2024-07-03,341860
+275,20,Saltanat,Kairatov,Field Worker,saltanat.kairatov966@mail.ru,+7 (734) 601-21-75,2012-12-12,419582
+276,10,Dinara,Dzhakishev,Accountant,dinara.dzhakishev397@mail.ru,+7 (763) 970-19-70,2013-07-14,425420
+277,17,Laura,Abdirov,Field Worker,laura.abdirov492@outlook.com,+7 (781) 700-52-41,2012-05-01,481028
+278,7,Dinara,Aliyev,Manager,dinara.aliyev353@outlook.com,+7 (771) 901-66-44,2012-09-09,251332
+279,8,Kanat,Kadyrov,Manager,kanat.kadyrov694@outlook.com,+7 (726) 797-66-66,2020-03-16,465220
+280,5,Madina,Zhakenov,Manager,madina.zhakenov815@gmail.com,+7 (757) 911-76-29,2018-11-26,377328
+281,1,Ulan,Bekbolat,Coordinator,ulan.bekbolat762@mail.ru,+7 (727) 885-98-64,2022-02-11,210720
+282,18,Arman,Kadyrov,Manager,arman.kadyrov270@yahoo.com,+7 (783) 538-97-74,2016-04-06,175003
+283,12,Ulan,Serikbayev,Accountant,ulan.serikbayev63@outlook.com,+7 (791) 386-57-36,2011-04-11,185220
+284,2,Marlen,Aliyev,Assistant,marlen.aliyev914@outlook.com,+7 (746) 787-93-48,2013-06-11,427350
+285,1,Daniyar,Rakhimov,Accountant,daniyar.rakhimov485@outlook.com,+7 (760) 626-29-53,2023-01-17,594630
+286,9,Gulnara,Akhmetov,Manager,gulnara.akhmetov374@gmail.com,+7 (754) 105-93-26,2016-12-22,410659
+287,1,Rauan,Kairatov,Accountant,rauan.kairatov570@yahoo.com,+7 (716) 936-49-59,2012-04-20,371918
+288,19,Bolat,Akhmetov,Assistant,bolat.akhmetov718@gmail.com,+7 (782) 655-13-27,2016-05-18,452560
+289,1,Gulnara,Suleimenov,Assistant,gulnara.suleimenov734@yandex.kz,+7 (793) 943-10-15,2011-11-09,180540
+290,2,Bolat,Dzhakishev,Manager,bolat.dzhakishev967@outlook.com,+7 (712) 227-18-68,2019-11-03,473644
+291,13,Ruslan,Ospanov,Field Worker,ruslan.ospanov365@yahoo.com,+7 (794) 665-85-80,2011-09-28,356334
+292,19,Marlen,Abdirov,Manager,marlen.abdirov775@gmail.com,+7 (786) 843-24-68,2015-01-10,196446
+293,17,Ulan,Yermekbayev,Accountant,ulan.yermekbayev370@yandex.kz,+7 (797) 834-81-12,2012-04-11,271783
+294,17,Nurlan,Dauletov,Manager,nurlan.dauletov825@gmail.com,+7 (731) 747-89-75,2023-03-22,244139
+295,4,Venera,Ismailov,Manager,venera.ismailov139@mail.ru,+7 (747) 952-62-63,2019-09-08,595084
+296,9,Askar,Tuleshov,Coordinator,askar.tuleshov742@yandex.kz,+7 (772) 960-70-28,2012-01-01,475661
+297,9,Zarina,Kadyrov,Field Worker,zarina.kadyrov776@yandex.kz,+7 (770) 572-73-66,2011-08-21,438558
+298,14,Kanat,Zhakenov,Accountant,kanat.zhakenov793@gmail.com,+7 (740) 814-33-92,2018-10-13,174395
+299,20,Oksana,Abdirov,Accountant,oksana.abdirov694@outlook.com,+7 (784) 562-44-77,2014-01-07,598318
+300,14,Bakhyt,Baimukhanov,Manager,bakhyt.baimukhanov47@gmail.com,+7 (755) 603-66-24,2020-08-09,352666
+301,12,Nurlan,Suleimenov,Field Worker,nurlan.suleimenov316@mail.ru,+7 (780) 475-76-98,2012-08-16,388605
+302,2,Oksana,Aliyev,Coordinator,oksana.aliyev727@gmail.com,+7 (796) 722-87-53,2021-11-23,373578
+303,9,Aslan,Magzumov,Accountant,aslan.magzumov223@gmail.com,+7 (787) 325-65-42,2024-07-04,494659
+304,8,Zarina,Suleimenov,Field Worker,zarina.suleimenov837@gmail.com,+7 (772) 456-42-68,2017-02-13,516173
+305,12,Elmira,Ospanov,Accountant,elmira.ospanov170@yandex.kz,+7 (782) 310-32-14,2021-10-07,540507
+306,1,Farida,Dzhakishev,Coordinator,farida.dzhakishev976@yahoo.com,+7 (783) 577-50-57,2010-11-15,252606
+307,1,Elmira,Aliyev,Manager,elmira.aliyev578@outlook.com,+7 (717) 914-52-66,2021-02-22,493100
+308,12,Elmira,Bekbolat,Assistant,elmira.bekbolat258@yahoo.com,+7 (757) 683-85-36,2012-09-20,575399
+309,16,Sultan,Yermekbayev,Manager,sultan.yermekbayev379@mail.ru,+7 (718) 108-99-29,2011-07-16,513968
+310,4,Nurlan,Ismailov,Field Worker,nurlan.ismailov498@mail.ru,+7 (721) 997-57-64,2014-03-11,324774
+311,18,Gulnara,Tuleshov,Accountant,gulnara.tuleshov511@mail.ru,+7 (715) 105-30-13,2011-11-28,426840
+312,16,Togzhan,Yermekbayev,Field Worker,togzhan.yermekbayev933@outlook.com,+7 (710) 392-80-47,2014-05-15,367949
+313,17,Venera,Nurpeisov,Field Worker,venera.nurpeisov915@outlook.com,+7 (775) 526-86-95,2013-03-18,332709
+314,8,Nurlan,Kairatov,Manager,nurlan.kairatov805@gmail.com,+7 (722) 256-58-90,2024-12-25,496047
+315,16,Farida,Tolegenov,Coordinator,farida.tolegenov702@outlook.com,+7 (722) 115-36-27,2017-06-23,331047
+316,15,Elmira,Bekbolat,Coordinator,elmira.bekbolat651@gmail.com,+7 (730) 456-29-87,2024-02-25,255648
+317,4,Askar,Esenov,Manager,askar.esenov98@mail.ru,+7 (767) 683-74-94,2019-05-22,531654
+318,6,Kuanysh,Omarov,Manager,kuanysh.omarov57@gmail.com,+7 (748) 539-27-68,2011-11-16,487956
+319,7,Yerbol,Serikbayev,Field Worker,yerbol.serikbayev879@yahoo.com,+7 (794) 295-46-12,2011-02-25,210472
+320,6,Zhanna,Nurpeisov,Accountant,zhanna.nurpeisov225@yahoo.com,+7 (716) 570-67-97,2013-05-04,261683
+321,7,Erlan,Esenov,Manager,erlan.esenov299@yandex.kz,+7 (751) 433-93-85,2014-03-16,567294
+322,13,Bakhyt,Omarov,Manager,bakhyt.omarov429@yahoo.com,+7 (778) 354-21-59,2012-01-22,453354
+323,1,Arman,Zhakenov,Field Worker,arman.zhakenov995@yahoo.com,+7 (778) 616-43-77,2023-08-19,514861
+324,8,Kamila,Zhakenov,Field Worker,kamila.zhakenov795@yandex.kz,+7 (775) 702-36-70,2012-06-14,301735
+325,18,Dinara,Aliyev,Field Worker,dinara.aliyev312@yahoo.com,+7 (721) 256-78-43,2022-04-14,533656
+326,20,Dias,Esenov,Coordinator,dias.esenov556@yandex.kz,+7 (746) 387-30-18,2015-08-20,222651
+327,1,Oksana,Dzhakishev,Manager,oksana.dzhakishev297@mail.ru,+7 (716) 463-35-65,2023-07-21,468853
+328,17,Nurlan,Rakhimov,Coordinator,nurlan.rakhimov446@gmail.com,+7 (777) 182-87-63,2022-12-02,348114
+329,19,Timur,Nurpeisov,Accountant,timur.nurpeisov270@outlook.com,+7 (764) 843-11-97,2013-05-16,169916
+330,1,Laura,Serikbayev,Coordinator,laura.serikbayev230@outlook.com,+7 (748) 878-88-22,2023-04-11,322626
+331,2,Zhanna,Tolegenov,Field Worker,zhanna.tolegenov261@mail.ru,+7 (780) 430-94-16,2020-04-12,375195
+332,4,Ulan,Kadyrov,Field Worker,ulan.kadyrov178@yahoo.com,+7 (716) 159-64-17,2018-01-05,541738
+333,10,Timur,Kairatov,Manager,timur.kairatov591@outlook.com,+7 (755) 233-41-51,2023-07-23,542301
+334,5,Tamara,Tuleshov,Accountant,tamara.tuleshov209@yahoo.com,+7 (723) 571-36-25,2022-04-20,473955
+335,6,Saule,Zhumabekov,Assistant,saule.zhumabekov137@yandex.kz,+7 (745) 267-15-90,2016-03-25,590353
+336,12,Tamara,Kairatov,Assistant,tamara.kairatov715@outlook.com,+7 (716) 640-91-56,2023-04-05,247238
+337,7,Kamila,Nurpeisov,Coordinator,kamila.nurpeisov316@outlook.com,+7 (738) 531-39-17,2016-12-21,571007
+338,18,Ulan,Nurgaliyev,Coordinator,ulan.nurgaliyev778@outlook.com,+7 (712) 795-22-47,2013-10-01,194775
+339,13,Medet,Tolegenov,Field Worker,medet.tolegenov33@outlook.com,+7 (776) 932-72-55,2020-02-09,535829
+340,8,Zarina,Dzhakishev,Accountant,zarina.dzhakishev185@yandex.kz,+7 (785) 741-65-16,2024-11-19,488366
+341,3,Laura,Abdirov,Manager,laura.abdirov42@mail.ru,+7 (736) 227-18-51,2021-06-02,440692
+342,4,Alibek,Esenov,Manager,alibek.esenov415@outlook.com,+7 (741) 344-58-34,2022-05-06,478740
+343,8,Timur,Kairatov,Field Worker,timur.kairatov877@yahoo.com,+7 (765) 235-13-17,2014-10-02,295060
+344,2,Farida,Akhmetov,Coordinator,farida.akhmetov50@outlook.com,+7 (766) 972-30-92,2024-06-20,210654
+345,8,Timur,Akhmetov,Coordinator,timur.akhmetov232@yandex.kz,+7 (784) 776-84-78,2022-05-16,424381
+346,8,Aslan,Serikbayev,Assistant,aslan.serikbayev542@gmail.com,+7 (778) 209-46-51,2023-12-24,170130
+347,2,Kairat,Zhumabekov,Field Worker,kairat.zhumabekov175@yahoo.com,+7 (790) 530-54-44,2015-07-20,218373
+348,5,Kairat,Abdirov,Assistant,kairat.abdirov356@outlook.com,+7 (767) 310-13-22,2022-09-24,308888
+349,15,Daniyar,Mambetalin,Assistant,daniyar.mambetalin537@yahoo.com,+7 (748) 760-76-67,2016-02-25,309206
+350,8,Bolat,Nurgaliyev,Manager,bolat.nurgaliyev385@gmail.com,+7 (746) 699-38-28,2024-02-25,445528
+351,20,Bolat,Abdirov,Field Worker,bolat.abdirov906@outlook.com,+7 (791) 600-51-44,2021-04-21,254080
+352,16,Bolat,Tolegenov,Coordinator,bolat.tolegenov855@yandex.kz,+7 (711) 214-20-83,2010-08-08,343588
+353,15,Gaukhar,Aliyev,Assistant,gaukhar.aliyev325@yandex.kz,+7 (758) 378-91-12,2011-03-24,286034
+354,11,Tamara,Zhumabekov,Coordinator,tamara.zhumabekov784@mail.ru,+7 (781) 721-99-77,2020-07-27,266502
+355,15,Ulan,Yermekbayev,Field Worker,ulan.yermekbayev249@mail.ru,+7 (775) 325-33-61,2018-05-01,401815
+356,6,Bakhyt,Ismailov,Coordinator,bakhyt.ismailov140@mail.ru,+7 (763) 708-75-64,2024-03-07,247154
+357,9,Bolat,Esenov,Manager,bolat.esenov825@yahoo.com,+7 (710) 319-45-22,2012-05-05,321866
+358,5,Venera,Suleimenov,Accountant,venera.suleimenov715@gmail.com,+7 (798) 606-24-98,2022-04-16,382589
+359,13,Venera,Serikbayev,Accountant,venera.serikbayev96@outlook.com,+7 (722) 837-40-55,2021-11-11,575407
+360,18,Zhanna,Baimukhanov,Manager,zhanna.baimukhanov983@outlook.com,+7 (796) 370-94-84,2016-10-23,517701
+361,14,Madina,Rakhimov,Accountant,madina.rakhimov433@outlook.com,+7 (760) 660-17-22,2023-06-09,469681
+362,14,Laura,Esenov,Manager,laura.esenov635@yandex.kz,+7 (776) 102-89-10,2020-10-13,172484
+363,3,Venera,Baimukhanov,Accountant,venera.baimukhanov500@mail.ru,+7 (761) 549-95-95,2020-03-08,231870
+364,1,Aidana,Ospanov,Coordinator,aidana.ospanov853@mail.ru,+7 (755) 830-41-58,2024-04-14,311381
+365,18,Dana,Tolegenov,Coordinator,dana.tolegenov144@yandex.kz,+7 (741) 126-94-72,2024-12-25,391906
+366,7,Alibek,Esenov,Accountant,alibek.esenov27@yandex.kz,+7 (785) 579-67-90,2011-03-07,225950
+367,11,Marat,Suleimenov,Coordinator,marat.suleimenov370@yahoo.com,+7 (742) 924-62-15,2011-04-17,225230
+368,3,Dias,Ismailov,Coordinator,dias.ismailov196@yandex.kz,+7 (736) 523-34-96,2017-01-08,510015
+369,11,Dias,Bekbolat,Accountant,dias.bekbolat535@yandex.kz,+7 (710) 225-96-34,2019-12-23,297163
+370,2,Aliya,Yermekbayev,Manager,aliya.yermekbayev346@mail.ru,+7 (731) 881-50-68,2020-08-15,558535
+371,2,Zarina,Zhumabekov,Coordinator,zarina.zhumabekov705@outlook.com,+7 (772) 277-16-14,2010-03-23,569917
+372,6,Oksana,Ismailov,Assistant,oksana.ismailov692@yahoo.com,+7 (728) 836-92-21,2018-08-28,359405
+373,10,Aidar,Ospanov,Coordinator,aidar.ospanov813@yandex.kz,+7 (711) 889-31-29,2012-01-04,514593
+374,20,Marat,Omarov,Coordinator,marat.omarov766@outlook.com,+7 (747) 443-30-64,2011-05-01,232329
+375,7,Daniyar,Akhmetov,Assistant,daniyar.akhmetov459@yandex.kz,+7 (712) 500-58-13,2018-07-21,564747
+376,8,Bibigul,Magzumov,Assistant,bibigul.magzumov791@yandex.kz,+7 (786) 977-19-71,2016-10-07,243711
+377,20,Kairat,Mambetalin,Coordinator,kairat.mambetalin990@mail.ru,+7 (730) 870-33-21,2016-02-24,365879
+378,14,Ruslan,Bekbolat,Field Worker,ruslan.bekbolat733@outlook.com,+7 (793) 610-96-76,2022-05-28,435458
+379,12,Timur,Akhmetov,Field Worker,timur.akhmetov10@yandex.kz,+7 (727) 986-42-41,2011-06-09,539963
+380,15,Zhanna,Ospanov,Manager,zhanna.ospanov964@yahoo.com,+7 (792) 481-67-86,2019-09-21,320147
+381,10,Zhanna,Kadyrov,Accountant,zhanna.kadyrov341@yahoo.com,+7 (750) 863-13-10,2010-01-14,312228
+382,11,Dinara,Omarov,Manager,dinara.omarov575@mail.ru,+7 (763) 837-67-28,2018-10-21,323451
+383,11,Arman,Abdirov,Assistant,arman.abdirov436@yandex.kz,+7 (775) 722-60-21,2012-01-05,219474
+384,12,Aidana,Bekbolat,Accountant,aidana.bekbolat30@mail.ru,+7 (787) 400-69-64,2014-06-08,156501
+385,11,Dias,Magzumov,Manager,dias.magzumov673@gmail.com,+7 (725) 907-37-93,2012-08-19,263209
+386,3,Dinara,Magzumov,Coordinator,dinara.magzumov571@mail.ru,+7 (726) 958-73-47,2020-11-23,188515
+387,17,Kamila,Aliyev,Field Worker,kamila.aliyev837@yahoo.com,+7 (734) 560-44-84,2016-10-04,388238
+388,3,Baurzhan,Yermekbayev,Accountant,baurzhan.yermekbayev642@yahoo.com,+7 (737) 539-95-95,2010-12-14,329571
+389,9,Zarina,Kadyrov,Coordinator,zarina.kadyrov912@mail.ru,+7 (771) 320-43-27,2012-07-07,300044
+390,11,Zarina,Dauletov,Accountant,zarina.dauletov595@mail.ru,+7 (744) 573-11-40,2023-08-01,478552
+391,7,Bolat,Tolegenov,Assistant,bolat.tolegenov63@yandex.kz,+7 (751) 896-63-47,2016-08-01,330676
+392,10,Zhanar,Esenov,Manager,zhanar.esenov652@yandex.kz,+7 (745) 796-22-23,2024-01-11,314565
+393,8,Kuanysh,Aliyev,Coordinator,kuanysh.aliyev843@yandex.kz,+7 (768) 672-99-39,2016-05-05,411285
+394,4,Zarina,Ospanov,Assistant,zarina.ospanov138@outlook.com,+7 (766) 222-29-89,2020-08-03,246846
+395,4,Ulan,Akhmetov,Coordinator,ulan.akhmetov669@yandex.kz,+7 (767) 961-29-96,2018-12-03,355711
+396,7,Ulan,Esenov,Field Worker,ulan.esenov307@yahoo.com,+7 (743) 119-79-95,2012-07-06,549333
+397,19,Nazira,Tolegenov,Manager,nazira.tolegenov523@outlook.com,+7 (743) 658-41-50,2014-08-09,523079
+398,18,Serik,Zhumabekov,Manager,serik.zhumabekov991@gmail.com,+7 (765) 775-42-67,2021-07-15,486027
+399,17,Marlen,Tolegenov,Field Worker,marlen.tolegenov463@yandex.kz,+7 (780) 887-15-60,2011-02-16,408617
+400,5,Aliya,Baimukhanov,Assistant,aliya.baimukhanov154@yandex.kz,+7 (798) 333-87-28,2019-08-04,473833
